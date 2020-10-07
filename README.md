@@ -3,7 +3,7 @@
 
 If you are Absolute new to Github Refer this [video](https://www.youtube.com/watch?v=witxm_LKiNA)
 
-The Steps of Contribution in this Organisation involves : 
+### The Steps of Contribution in this Organisation involves : 
 ```
 1.) Look on the project Repo that you are assigned (Each day after class you will be assigned with a Project - For a project there will be a Repo Created over here wehre you need to upload codes ) 
 2.) Fork the Repo 
@@ -14,9 +14,28 @@ The Steps of Contribution in this Organisation involves :
 ```
 Whoaa you have Contributed your First Pull Request (PR) 
 
-Contribution Details : 
+### Contribution Details : 
 
 All the details regarding how and where to contribute is mentioned over here: 
 ```
 1.) Each Project will have a Repo simply you need to do the project and create a pull request of your solution in the Repo 
 2.) You have to link the Repo /solution with circle ci - For code testing and integration  by adding a file .circleci at your repo , [see here](https://www.youtube.com/watch?v=l76BPdbt0gc)
+3.) Everyone is requested to upload their project issues in the project Repo so that a open source environment can be created and can be solved by all 
+4.) Everyone is requested to add labels to their issues 
+5.) Github will be used only for your project rest pre & post quiz,Research and Assignments will be done on Google Classroom and tests on Eval AI
+6.) When you just created the pull request with your solution you can look into others issues too , if your solution is accepted then it will be merged 
+7.) Ml Open Source contribution will also be done by Github 
+8.) While working with the models of algorithms which you will create you will be creating Git Project Environment & Releasing a package
+```
+### Rules & Regulations 
+
+Every Contributor have to sign [Open-Source-license By Google CLA](https://cla.developers.google.com/clas) first before the contribution.
+
+As you done with the signing just remember the follwoing points : 
+```
+1.) Dont copy and paste code from others or any other sites , copying will not lead you anywhere
+2.) Be respectful and helpful to others 
+3.) You have to always keep your Repo's private 
+4.) You have to work as a Open Source Contributer over here 
+```
+Happy Learning , If you are still unsure about contributing to Open source then follow [this](http://opensource.guide/how-to-contribute/)
