@@ -12,4 +12,11 @@ The Steps of Contribution in this Organisation involves :
 5.) After adding the file by git add "Filename"
 6.) Finally push it in the mother Repo by git push
 ```
-Whoaa you have 
+Whoaa you have Contributed your First Pull Request (PR) 
+
+Contribution Details : 
+
+All the details regarding how and where to contribute is mentioned over here: 
+```
+1.) Each Project will have a Repo simply you need to do the project and create a pull request of your solution in the Repo 
+2.) You have to link the Repo /solution with circle ci - For code testing and integration  by adding a file .circleci at your repo , [see here](https://www.youtube.com/watch?v=l76BPdbt0gc)
